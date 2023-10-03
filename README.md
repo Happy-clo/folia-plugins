@@ -67,7 +67,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/) | [GitHub](https://github.com/Gecolay/GSit) | [Download](https://github.com/Gecolay/GSit/releases) |
 | [HeadDrop](https://www.spigotmc.org/resources/✅-headdrop-free-1-16-1-20-fully-customizable.99976/) | [GitHub](https://github.com/RRS-9747/HeadDrop) | [Download](https://github.com/RRS-9747/HeadDrop/releases) |
 | [HuskHomes2](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) | [GitHub](https://github.com/WiIIiam278/HuskHomes2) | [Download](https://www.spigotmc.org/resources/%E2%AD%90-huskhomes-1-16-1-19-%E2%AD%90-simple-intuitive-teleportation-suite-with-cross-server-support.83767/) |
-| [HynseBackup](https://github.com/MidnightTale/HynseBackup) | [GitHub](https://github.com/MidnightTale/HynseBackup) | [Download](https://modrinth.com/plugin/hynsebackup) |
+| [Hynseeconomy](https://github.com/MidnightTale/hyeconomy) | [GitHub](https://github.com/MidnightTale/hyeconomy) | [Download](https://github.com/MidnightTale/hyeconomy) |
 | [InteractiveBoard](https://www.spigotmc.org/resources/interactiveboard.77114/) | Closed Source | [Paid](https://www.spigotmc.org/resources/interactiveboard.77114/) |
 | [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) | [GitHub](https://github.com/Jannyboy11/InvSee-plus-plus) | [Download](https://github.com/Jannyboy11/InvSee-plus-plus/releases) |
 | [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) |
@@ -89,6 +89,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [Panilla](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [GitHub](https://www.spigotmc.org/resources/panilla-prevent-hacked-items.65694/) | [Download](https://github.com/ds58/Panilla/releases) |
 | [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://github.com/AlexProgrammerDE/PistonChat/actions) |
 | [Plasmo-voice](https://www.spigotmc.org/resources/plasmo-voice-server.91064/) | [GitHub](https://github.com/plasmoapp/plasmo-voice) | [Download](https://github.com/plasmoapp/plasmo-voice/releases) |
+| [PlugManX](https://www.spigotmc.org/resources/plugmanx.88135/) | [GitHub](https://github.com/TheBlackEntity/PlugManX) | [Download](https://github.com/TheBlackEntity/PlugManX/releases) |
 | [PosCommands](https://www.spigotmc.org/resources/topper.101325/) | [GitHub](https://github.com/Loving11ish/PosCommands) | [Download](https://www.spigotmc.org/resources/poscommands-1-19-4-support.85571/) |
 | [PrefiX](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | [GitHub](https://gitlab.com/martijnpu/prefix) | [Download](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) |
 | [PrismRefracted (Fork)](https://beta.mcbbs.net/resource/servermod/qcnedi83) | [GitHub](https://github.com/Rothes/PrismRefracted) | [Download](https://github.com/Rothes/PrismRefracted/releases) |
