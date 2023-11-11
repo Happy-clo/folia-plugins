@@ -104,6 +104,7 @@ These plugins should work with Folia but please note that Folia just recently ca
 | [SpeedLimit](https://www.spigotmc.org/resources/speedlimit-1-20-1-support.75269/) | [GitHub](https://github.com/Loving11ish/SpeedLimit) | [Download](https://github.com/Loving11ish/SpeedLimit/releases) |
 | [SternalBoard (Fork)](https://github.com/jdkeke142/SternalBoard-Folia) | [GitHub](https://github.com/jdkeke142/SternalBoard-Folia) | [Download](https://github.com/jdkeke142/SternalBoard-Folia/releases/tag/2.2.0-Folia) |
 | [SurvivalPlots](https://www.spigotmc.org/resources/survival-plots.108627/) | [GitHub](https://github.com/destial/SurvivalPlots) | [Download](https://www.spigotmc.org/resources/survival-plots.108627/) |
+| [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) | [GitHub](https://github.com/SkinsRestorer/SkinsRestorerX) | [Download](https://github.com/SkinsRestorer/SkinsRestorerX/releases) |
 | [TabList](https://www.spigotmc.org/resources/animated-tab-tablist.46229/) | [GitHub](https://github.com/montlikadani/TabList) | [Download](https://github.com/montlikadani/TabList/releases) |
 | [To-Do List](https://www.spigotmc.org/resources/to-do-list.61183/) | [GitHub](https://www.spigotmc.org/resources/to-do-list.61183/) | [Download](https://www.spigotmc.org/resources/to-do-list.61183/) |
 | [Topper](https://www.spigotmc.org/resources/topper.101325/) | [GitHub](https://github.com/HSGamer/Topper) | [Download](https://www.spigotmc.org/resources/topper.101325/) |
@@ -133,7 +134,6 @@ These plugins don't fully support Folia yet but it's in the plans or the develop
 - [PacketEvents API](https://github.com/retrooper/packetevents/pull/583)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support)
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared/pull/4009)
-- [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia), In the future, it will be built into Folia
 - [TAB](https://github.com/NEZNAMY/TAB/tree/v4), you can also use this [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
 
