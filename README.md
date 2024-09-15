@@ -157,6 +157,8 @@ Check out the [README File](https://github.com/PaperMC/Folia) of Folia by PaperM
 ## Our Discord Server:
 
 [![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner3)](https://discord.gg/GcemTB848R)
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
 # Statement
 
 > [!CAUTION]  
